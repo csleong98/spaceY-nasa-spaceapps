@@ -25,8 +25,9 @@
             "esri/views/SceneView",
             "esri/layers/CSVLayer",
             "esri/widgets/Popup",
-            "esri/widgets/LayerList"
-        ], function(Map, SceneView, CSVLayer, Popup, LayerList){
+            "esri/widgets/LayerList",
+            "esri/widgets/Search"
+        ], function(Map, SceneView, CSVLayer, Popup, LayerList, Search){
             var map = new Map({
                 basemap: "hybrid",
                 ground: "world-elevation"
@@ -39,13 +40,26 @@
                 center: [-101.17, 21.78]  // Sets the center point of view with lon/lat
             });
 
+            var searchWidget = new Search({
+                view: view
+            });
+            
+            view.ui.add(searchWidget, {
+                position: "top-right"
+            });
+
+            var camera = {
+                speedFactor: 1, // default animation speed
+                easing: "out-quint" // easing function to slow down when reaching the target
+            }; //view.goTo(target, camera); //command for camera flight
+
             var template = {
                 title: "{name}",
                 content: viewLaunch
             };
 
             var csvLayer = new CSVLayer({
-                url: "http://localhost:1337/pad.csv",
+                url: "./pad.csv",
                 popupTemplate: template
             });
             // Pass a simple renderer to the layer
@@ -69,24 +83,29 @@
             // Creates actions in the popup
             function viewLaunchActions(event) {
                 var item = event.item;
-                item.title = "Cape Canaverel";
+                item.title = "Upcoming launches";
                 
                 // open the list item in the LayerList
                 item.open = true;
                 item.actionsSections = [[
                         {
-                        title: "latest",
-                        className: "esri-icon-time-clock",
+                        title: "Atlas V 551, AEHF-4",
+                        className: "esri-icon-description",
                         id: "launch1"
                         }, 
                         {
-                        title: "Layer information",
-                        className: "esri-icon-question",
+                        title: "Falcon 9 Block 5, Telstar 18",
+                        className: "esri-icon-time-clock",
                         id: "launch2"
                         },
                         {
-                        title: "Increase opacity",
-                        className: "esri-icon-description",
+                        title: "Delta IV Heavy, Parker Solar Probe",
+                        className: "esri-icon-time-clock",
+                        id: "launch3"
+                        },
+                        {
+                        title: "Falcon 9 Block 5, Merah Putih",
+                        className: "esri-icon-time-clock",
                         id: "launch3"
                         }
                 ]];
@@ -109,26 +128,20 @@
                 // redirect to launch details
                 popupView.on("trigger-action", function(event) {
                     var id = event.action.id;
-                    if(id === "launch1"){
+                    if(id === "launch2"){
                         console.log("click event: ", id);
                         //redirect
-
+                        window.location.href = "./home.html";
                     }
                 });
                 
                 // Return a dom node
                 return popupView.container;
             };
-
-            var camera = {
-                speedFactor: 1, // default animation speed
-                easing: "out-quint" // easing function to slow down when reaching the target
-            }; //view.goTo(target, camera); //command for camera flight
         });
     </script>
 </head>
 <body>
     <div id="viewDiv"></div>
-</div>
 </body>
 </html>
