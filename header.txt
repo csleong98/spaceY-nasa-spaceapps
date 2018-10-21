@@ -1,0 +1,6 @@
+id,name,padType,lat,long,mapURL,retired,locationid,infoURL,wikiURL,infoURLs,changed
+
+padType (0 for launch, 1 for landing)
+retired (0 for retired,1 for active)
+
+

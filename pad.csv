@@ -1,0 +1,159 @@
+id,name,padType,lat,long,mapURL,retired,locationid,infoURL,wikiURL,infoURLs,changed
+1,"Launch Area 5B, Woomera",0,-30.971993,136.475005,"http://maps.google.com/maps?q=30.972+S,+136.475+E",1,20,,https://en.wikipedia.org/wiki/Woomera_Launch_Area_5,,21/02/2017 00:00
+2,"Launch Area 6A, Woomera",0,-31.074,136.4394,"http://maps.google.com/maps?q=31.074+S,+136.4394+E",1,20,,,,21/02/2017 00:00
+3,"Launch Area 6B, Woomera",0,-31.0792,136.445,"http://maps.google.com/maps?q=31.0792+S,+136.445+E",1,20,,,,21/02/2017 00:00
+4,"Launch Area 8, Woomera",0,-31.034,136.463,"http://maps.google.com/maps?q=31.034+S,+136.463+E",1,20,,,,21/02/2017 00:00
+5,"Launch Area 2A, Jiuquan",0,41.306,100.314,"http://maps.google.com/maps?q=41.3060,100.3140",1,1,,,,21/02/2017 00:00
+6,"Launch Area 2B, Jiuquan",0,41.309,100.317,"http://maps.google.com/maps?q=40.958093,100.291188",1,1,,,,21/02/2017 00:00
+7,"Launch Area 4 (SLS-2 / 603), Jiuquan",0,40.960556,100.298333,"http://maps.google.com/maps?q=40.960556,100.298333",0,1,,https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4,,21/02/2017 00:00
+8,"Launch Area 4 (SLS-1 / 921), Jiuquan",0,40.958093,100.291188,"http://maps.google.com/maps?q=40.958093,100.291188",0,1,,https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4,,21/02/2017 00:00
+167,Edwards Air Force Base,0,34.905556,-117.883611,https://www.google.com/maps/place/34°54'20.0"N+117°53'01.0"W/,1,39,null,https://en.wikipedia.org/wiki/Edwards_Air_Force_Base,,21/02/2017 00:00
+166,Rocket Lab Launch Complex 1,0,-39.262833,177.864469,https://www.google.ee/maps/place/39°15'46.2"S+177°51'52.1"E/,0,40,,https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1,,21/02/2017 00:00
+11,"Launch Area 3 (Launch Area 2 Rebuilt 2006), Jiuquan",0,28.247183,102.029268,"http://maps.google.com/maps?q=28.247183,102.029268",1,1,null,,,21/02/2017 00:00
+12,"Launch Area 4?, Jiuquan",0,28.2495,102.0232,"http://maps.google.com/maps?q=28.2495,102.0232",0,1,null,,,21/02/2017 00:00
+13,"Launch Complex 9, Taiyuan",0,38.849,111.608,"http://maps.google.com/maps?q=38.849+N,+111.608+E",0,2,,,,21/02/2017 00:00
+14,"Launch Complex 7, Taiyuan",0,38.863428,111.589004,"http://maps.google.com/maps?q=38.863428+N,+111.589004+E",0,2,,,,21/02/2017 00:00
+137,"Ariane Launch Area 3, Kourou",0,5.239,-52.768,"https://www.google.com/maps/?q=5.239,-52.769",0,3,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,http://en.wikipedia.org/wiki/ELA-3,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,21/02/2017 00:00
+138,"Yoshinobu Launch Complex, Tanegashima, Japan",0,30.402222,130.975,https://www.google.com/maps/place/30°24'08.0"N+130°58'30.0"E/,0,9,,https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex,,21/02/2017 00:00
+17,"Ariane Launch Area, Kourou",0,5.207642,-52.772384,"https://www.google.com/maps/?q=5.239,-52.769",0,3,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,https://en.wikipedia.org/wiki/Guiana_Space_Centre,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,21/02/2017 00:00
+18,"Ariane Launch Area 1, Kourou",0,5.236,-52.775,"https://www.google.com/maps/?q=5.239,-52.775",0,3,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,https://en.wikipedia.org/wiki/ELA-1,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,21/02/2017 00:00
+19,"Brigitte Pad, Hammaguir",0,30.871,-3.008,"http://maps.google.com/maps?q=30.8710,-3.0080",0,4,,,,21/02/2017 00:00
+178,Satish Dhawan Space Centre SLV Launch Pad,0,13.725855,80.22659,"https://maps.google.com/maps?q=13.725855,80.226590",1,5,,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_SLV_Launch_Pad,,21/02/2017 00:00
+22,"Safir Pad, Iran",0,35.234,53.921,"http://maps.google.com/maps?q=35.2340,53.9210",0,6,,,,21/02/2017 00:00
+23,"Unknown New Larger Pad, Iran",0,35.238,53.951,"http://maps.google.com/maps?q=35.2380,53.9510",0,6,,,,21/02/2017 00:00
+24,"San Marco Platform, Kenya",0,-2.942,40.206,"https://www.google.com/maps/?q=-2.942,40.206",1,7,null,,,21/02/2017 00:00
+25,"M5 Pad, Kagoshima",0,31.251,131.082,"http://maps.google.com/maps?q=31.2510,131.0820",1,8,,,,21/02/2017 00:00
+26,"Mu Pad, Kagoshima",0,31.252,131.079,"http://maps.google.com/maps?q=31.2520,131.0790",1,8,,,,21/02/2017 00:00
+27,"Osaki Y LP1, Tanegashima, Japan",0,30.401,130.977,"http://maps.google.com/maps?q=30.401+N,+130.977+E",0,9,,,,21/02/2017 00:00
+28,"Osaki Y LP2, Tanegashima, Japan",0,30.401,130.975,"http://maps.google.com/maps?q=30.401+N,+130.975+E",0,9,,,,21/02/2017 00:00
+29,"1/5, Baikonur Cosmodrome, Kazakhstan",0,45.92,63.342,https://www.google.com/maps/place/45°55'12.0"N+63°20'31.2"E,0,10,,,,21/02/2017 00:00
+30,"31/6, Baikonur Cosmodrome, Kazakhstan",0,45.996034,63.564003,"http://maps.google.com/maps?q=45.996+N,+63.564+E",0,10,,,,21/02/2017 00:00
+176,"Ariane Launch Area 4, Kourou",0,5.256319,-52.786838,"https://www.google.ee/maps/search/5.256319,-52.786838",0,3,null,https://en.wikipedia.org/wiki/Guiana_Space_Centre,,21/02/2017 00:00
+31,"41/15, Baikonur Cosmodrome, Kazakhstan",0,45.976001,63.669,"http://maps.google.com/maps?q=45.976+N,+63.669+E",0,10,,,,21/02/2017 00:00
+32,"45/1, Baikonur Cosmodrome, Kazakhstan",0,45.943492,63.653014,"http://maps.google.com/maps?q=45.9435+N,+63.653+E",0,10,,,,21/02/2017 00:00
+33,"45/2, Baikonur Cosmodrome, Kazakhstan",0,45.939997,63.654999,"http://maps.google.com/maps?q=45.940+N,+63.655+E",0,10,,,,21/02/2017 00:00
+34,"81/23 (81L), Baikonur Cosmodrome, Kazakhstan",0,46.073997,62.977999,"http://maps.google.com/maps?q=46.074+N,+62.978+E",0,10,,,,21/02/2017 00:00
+35,"81/24 (81P), Baikonur Cosmodrome, Kazakhstan",0,46.071001,62.984999,"http://maps.google.com/maps?q=46.071+N,+62.985+E",0,10,,,,21/02/2017 00:00
+36,"90/19 (90L), Baikonur Cosmodrome, Kazakhstan",0,46.081302,62.932299,"http://maps.google.com/maps?q=46.071+N,+62.985+E",0,10,,,,21/02/2017 00:00
+37,"90/20 (90R), Baikonur Cosmodrome, Kazakhstan",0,46.079769,62.935491,"http://maps.google.com/maps?q=46.0798+N,+62.9355+E",1,10,,,,21/02/2017 00:00
+38,"109/95, Baikonur Cosmodrome, Kazakhstan",0,45.95112,63.497095,https://www.google.com/maps/place/45°57'03.6"N+63°29'49.2"E/,0,10,,,,21/02/2017 00:00
+39,"110/37 (110L), Baikonur Cosmodrome, Kazakhstan",0,45.964747,63.304744,"http://maps.google.com/maps?q=45.965+N,+63.305+E",0,10,,,,21/02/2017 00:00
+40,"110/38 (110R), Baikonur Cosmodrome, Kazakhstan",0,45.962121,63.310212,"http://maps.google.com/maps?q=45.962+N,+63.310+E",0,10,,,,21/02/2017 00:00
+41,"175/59, Baikonur Cosmodrome, Kazakhstan",0,46.052,62.986,"http://maps.google.com/maps?q=46.052+N,+62.986+E",0,10,null,,,21/02/2017 00:00
+42,"200/39 (200L), Baikonur Cosmodrome, Kazakhstan",0,46.039984,63.032093,"http://maps.google.com/maps?q=46.040+N,+63.032+E",0,10,,,,21/02/2017 00:00
+43,"200/40 (200R), Baikonur Cosmodrome, Kazakhstan",0,46.036416,63.037908,"http://maps.google.com/maps?q=46.0364+N,+63.038+E",0,10,,,,21/02/2017 00:00
+44,"250, Baikonur Cosmodrome, Kazakhstan",0,46.008446,63.304702,"http://maps.google.com/maps?q=46.008+N,+63.305+E",0,10,,,,21/02/2017 00:00
+45,"16/2, Plesetsk Cosmodrome, Russia",0,62.960091,40.682983,"http://maps.google.com/maps?q=62.960+N,+40.682+E",0,11,,,,21/02/2017 00:00
+46,"32/1 (32L), Plesetsk Cosmodrome, Russia",0,62.907416,40.78701,"http://maps.google.com/maps?q=62.9074+N,+40.787+E",0,11,,,,21/02/2017 00:00
+47,"32/2 (32R), Plesetsk Cosmodrome, Russia",0,62.905799,40.789392,"http://maps.google.com/maps?q=62.9058+N,+40.7894+E",0,11,,,,21/02/2017 00:00
+48,"35, Plesetsk Cosmodrome, Russia",0,62.9278,40.5752,"http://maps.google.com/maps?q=62.9278+N,+40.5752+E",0,11,,,,21/02/2017 00:00
+49,"41/1, Plesetsk Cosmodrome, Russia",0,62.940524,40.528537,"http://maps.google.com/maps?q=62.941+N,+40.529+E",0,11,,,,21/02/2017 00:00
+50,"43/3 (43L), Plesetsk Cosmodrome, Russia",0,62.9273,40.45,"http://maps.google.com/maps?f=q&hl=en&q=62.9273+N,+40.450+E&ie=UTF8&z=16&ll=62.92755,40.450008&spn=0.004365,0.021629&t=h&om=0&iwloc=addr",0,11,,,,21/02/2017 00:00
+51,"43/4 (43R), Plesetsk Cosmodrome, Russia",0,62.92883,40.457098,"http://maps.google.com/maps?q=62.929+N,+40.457+E",0,11,,,,21/02/2017 00:00
+52,"132/1 (132L), Plesetsk Cosmodrome, Russia",0,62.883229,40.868549,"http://maps.google.com/maps?q=62.8832+N,+40.8684+E",0,11,,,,21/02/2017 00:00
+53,"132/2 (132R), Plesetsk Cosmodrome, Russia",0,62.883493,40.872025,"http://maps.google.com/maps?q=62.8835+N,+40.872+E",0,11,,,,21/02/2017 00:00
+54,"133/3 (133L), Plesetsk Cosmodrome, Russia",0,62.886999,40.846984,"http://maps.google.com/maps?q=62.887+N,+40.847+E",0,11,,,,21/02/2017 00:00
+55,"107/1, Kapustin Yar, Russia",0,48.540499,46.300005,"http://maps.google.com/maps?q=48.540499,46.300005",0,12,,,,21/02/2017 00:00
+56,"107/2, Kapustin Yar, Russia",0,48.540016,46.297768,"http://maps.google.com/maps?q=48.540016,46.297768",0,12,,,,21/02/2017 00:00
+57,"Start Launch Site, Svobodney Cosmodrome, Russia",0,51.791661,128.184969,"http://maps.google.com/maps?q=51%C2%B047%2729.98%22N,+128%C2%B011%275.89%22E",0,13,,,,21/02/2017 00:00
+177,Satish Dhawan Space Centre Third Launch Pad,0,13.725855,80.22659,"https://maps.google.com/maps?q=13.725855,80.226590",0,5,,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Third_Launch_Pad,,21/02/2017 00:00
+58,"Yasny Launch Site ICBM silo (R 36M2/Dnepr), Dombarovskiy, Russia",0,51.036,59.958,"http://maps.google.com/maps?q=51.0360,59.9580",0,14,,,,21/02/2017 00:00
+59,"Launch Platform Odyssey, Pacific",0,0,-154,https://www.google.pl/maps/place/0°00'00.0"N+154°00'00.0"W,0,15,,https://en.wikipedia.org/wiki/Odyssey_(launch_platform),,21/02/2017 00:00
+60,"Space Launch Complex 17A, Cape Canaveral, FL",0,28.4472,-80.565,"http://maps.google.com/maps?f=q&hl=en&q=28.4472+N,+80.565+W&ie=UTF8&z=17&ll=28.447449,-80.564997&spn=0.004217,0.010815&t=h&om=0&iwloc=addr",1,16,,,,21/02/2017 00:00
+61,"Space Launch Complex 17B, Cape Canaveral, FL",0,28.4458,-80.5657,"http://maps.google.com/maps?q=28.445800,-80.565700",1,16,,,,21/02/2017 00:00
+62,"Space Launch Complex 37B, Cape Canaveral, FL",0,28.5317,-80.56495,"http://maps.google.com/maps?q=28.531700,-80.564950",0,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_37,,21/02/2017 00:00
+65,"Space Launch Complex 5, Cape Canaveral, FL",0,28.4394,-80.5733,"http://www.google.com/maps?q=28.4394,-80.5733",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_5,,21/02/2017 00:00
+179,"Space Launch Complex 576E, Vandenberg AFB, CA",0,34.739444,-120.619167,"http://maps.google.com/maps?q=34.739444+N,+120.619167+W",0,18,,,,21/02/2017 00:00
+152,"35/1, Plesetsk Cosmodrome, Russia",0,62.927319,40.574897,"https://www.google.com/maps?q=62.927319,40.574897",0,11,,https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome_Site_35,,21/02/2017 00:00
+67,"Space Launch Complex 11, Cape Canaveral, FL",0,28.4753,-80.5395,"http://www.google.com/maps?q=28.4753,-80.5395",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_11,,21/02/2017 00:00
+68,"Space Launch Complex 12, Cape Canaveral, FL",0,28.480607,-80.541938,"http://www.google.com/maps?q=28.480607,-80.541938",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_12,,21/02/2017 00:00
+69,"Space Launch Complex 13, Cape Canaveral, FL",0,28.485799,-80.5444,"http://www.google.com/maps?q=28.485799,-80.5444",0,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_13,,21/02/2017 00:00
+70,"Space Launch Complex 14, Cape Canaveral, FL",0,28.49103,-80.54687,"http://www.google.com/maps?q=28.49103,-80.54687",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_14,,21/02/2017 00:00
+71,"Space Launch Complex 15, Cape Canaveral, FL",0,28.49636,-80.549237,"http://www.google.com/maps?q=28.49636,-80.549237",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_15,,21/02/2017 00:00
+72,"Space Launch Complex 16, Cape Canaveral, FL",0,28.501626,-80.5518,"http://www.google.com/maps?q=28.501626,-80.5518",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16,,21/02/2017 00:00
+73,"Space Launch Complex 18A, Cape Canaveral, FL",0,28.450614,-80.56225,"http://www.google.com/maps?q=28.450614,-80.562250",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_18,,21/02/2017 00:00
+74,"Space Launch Complex 18B, Cape Canaveral, FL",0,28.448994,-80.56183,"http://www.google.com/maps?f=q&hl=en&q=28.448994,-80.56183&ie=UTF8&z=16&ll=28.449317,-80.561757&spn=0.00898,0.021629&t=k&om=1&iwloc=addr",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_18,,21/02/2017 00:00
+75,"Space Launch Complex 19, Cape Canaveral, FL",0,28.506898,-80.554169,"http://www.google.com/maps?q=28.506898,-80.554169",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_19,,21/02/2017 00:00
+76,"Space Launch Complex 20, Cape Canaveral, FL",0,28.512197,-80.556642,"http://www.google.com/maps?q=28.512197,-80.556642",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_20,,21/02/2017 00:00
+77,"Space Launch Complex 26A, Cape Canaveral, FL",0,28.44463,-80.57052,"http://www.google.com/maps?q=28.444630,-80.570520",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_26,,21/02/2017 00:00
+78,"Space Launch Complex 26B, Cape Canaveral, FL",0,28.4433,-80.5712,"http://www.google.com/maps?q=28.4433,-80.5712",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_26,,21/02/2017 00:00
+79,"Space Launch Complex 34, Cape Canaveral, FL",0,28.521811,-80.56113,"http://www.google.com/maps?q=28.521811,-80.56113",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_34,,21/02/2017 00:00
+80,"Space Launch Complex 36A, Cape Canaveral, FL",0,28.4713,-80.5378,"http://maps.google.com/maps?q=28.4713,-80.5378",0,16,,,,21/02/2017 00:00
+81,"Space Launch Complex 36B, Cape Canaveral, FL",0,28.4682,-80.541,"http://maps.google.com/maps?q=28.4682,-80.5410",0,16,,,,21/02/2017 00:00
+82,"Space Launch Complex 37A, Cape Canaveral, FL",0,28.533482,-80.568101,"http://www.google.com/maps?f=q&hl=en&q=28.533482,-80.568101&ie=UTF8&z=16&ll=28.533447,-80.565984&spn=0.008973,0.021629&t=k&om=1&iwloc=addr",1,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_37,,21/02/2017 00:00
+84,"Space Launch Complex 40, Cape Canaveral, FL",0,28.56194122,-80.57735736,"http://maps.google.com/maps?q=28.56194122,-80.57735736",0,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40,,21/02/2017 00:00
+85,"Space Launch Complex 41, Cape Canaveral, FL",0,28.58341025,-80.58303644,"http://maps.google.com/maps?q=28.58341025,-80.58303644",0,16,,https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41,,21/02/2017 00:00
+86,"Space Launch Complex 46, Cape Canaveral, FL",0,28.4584,-80.5284,"http://maps.google.com/maps?q=28.4584,-80.5284",0,16,,https://en.wikipedia.org/wiki/Spaceport_Florida_Launch_Complex_46,,21/02/2017 00:00
+87,"Launch Complex 39A, Kennedy Space Center, FL",0,28.60822681,-80.60428186,"http://maps.google.com/maps?q=28.608+N,+80.604+W",0,17,,https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A,,21/02/2017 00:00
+88,"Launch Complex 39B, Kennedy Space Center, FL",0,28.62711233,-80.62101503,"http://maps.google.com/maps?q=28.627+N,+80.621+W",0,17,,https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B,,21/02/2017 00:00
+89,"Space Launch Complex 2W, Vandenberg AFB, CA",0,34.7556,-120.6224,"http://maps.google.com/maps?q=34.7556+N,+120.6224+W",0,18,,,,21/02/2017 00:00
+90,"Space Launch Complex 3E, Vandenberg AFB, CA",0,34.64,-120.5895,"http://maps.google.com/maps?q=34.640+N,+120.5895+W",0,18,,,,21/02/2017 00:00
+91,"Space Launch Complex 6, Vandenberg AFB, CA",0,34.5815,-120.6262,"http://maps.google.com/maps?q=34.5815+N,+120.6262+W",0,18,,,,21/02/2017 00:00
+92,"Space Launch Complex 8, Vandenberg AFB, CA",0,34.57635,-120.63245,"http://maps.google.com/maps?q=34.57635+N,+120.63245+W",0,18,,,,21/02/2017 00:00
+160,West Texas Suborbital Launch Site / Corn Ranch,0,31.422878,-104.757121,https://www.google.com/maps/place/West+Texas+Suborbital+Launch+Site/,0,35,,https://en.wikipedia.org/wiki/Corn_Ranch,,21/02/2017 00:00
+94,"Space Launch Complex 1E, Vandenberg AFB, CA",0,34.756,-120.6263,"http://maps.google.com/maps?q=34.756+N,+120.6263+W",1,18,,,,21/02/2017 00:00
+95,"Space Launch Complex 1W, Vandenberg AFB, CA",0,34.7572,-120.6303,"http://maps.google.com/maps?q=34.7572+N,+120.6303+W",1,18,,,,21/02/2017 00:00
+96,"Space Launch Complex 2E, Vandenberg AFB, CA",0,34.7516,-120.6192,"http://maps.google.com/maps?q=34.7516+N,+120.6192+W",1,18,,,,21/02/2017 00:00
+181,Mojave Air and Space Port,0,35.059444,-118.151667,https://www.google.com/maps/place/35°03'34.0"N+118°09'06.0"W/,0,39,null,https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port,,21/02/2017 00:00
+99,"Space Launch Complex 3W, Vandenberg AFB, CA",0,34.644,-120.593,"http://maps.google.com/maps?q=34.644+N,+120.593+W",1,18,,,,21/02/2017 00:00
+100,"Space Launch Complex 4E, Vandenberg AFB, CA",0,34.632,-120.611,"http://maps.google.com/maps?q=34.632+N,+120.611+W",0,18,,,,21/02/2017 00:00
+101,"Space Launch Complex 4W, Vandenberg AFB, CA",0,34.6331,-120.6159,"http://maps.google.com/maps?q=34.6331+N,+120.6159+W",1,18,,,,21/02/2017 00:00
+102,"Space Launch Complex 5, Vandenberg AFB, CA",0,34.6074,-120.6244,"http://maps.google.com/maps?q=34.6074+N,+120.6244+W",1,18,,,,21/02/2017 00:00
+104,"Space Launch Complex 10E, Vandenberg AFB, CA",0,34.7626,-120.6213,"http://maps.google.com/maps?q=34.7626+N,+120.6213+W",1,18,,,,21/02/2017 00:00
+105,"Space Launch Complex 10W, Vandenberg AFB, CA",0,34.7636,-120.6244,"http://maps.google.com/maps?q=34.7636+N,+120.6244+W",1,18,,,,21/02/2017 00:00
+106,"Space Launch Complex 10N, Vandenberg AFB, CA",0,34.7663,-120.6227,"http://maps.google.com/maps?q=34.7663+N,+120.6227+W",1,18,,,,21/02/2017 00:00
+159,Launch and Landing Pad 1,0,31.4229291,-104.7572064,"https://www.google.com/maps/@31.4229291,-104.7572064,283m/data=!3m1!1e3",0,36,,https://en.wikipedia.org/wiki/Corn_Ranch,,21/02/2017 00:00
+109,"Launch Area 0 A, Wallops Island, Virginia",0,37.8337,-75.4881,"http://maps.google.com/maps?q=37.8337+N,+75.4881+W",0,19,,,,21/02/2017 00:00
+110,"Launch Area 0 B, Wallops Island, Virginia",0,37.831,-75.4911,"http://maps.google.com/maps?q=37.831N,75.4911W",0,19,,,,21/02/2017 00:00
+111,"Launch Area 3, Wallops Island, Virginia",0,37.8495,-75.4725,"http://maps.google.com/maps?q=37.8495N,+75.4725+W",0,19,,,,21/02/2017 00:00
+115,"Unknown Pad, Jiuquan",0,40.958,100.291,,0,1,,,,21/02/2017 00:00
+116,"Unknown Pad, Taiyuan",0,38.849,111.608,,0,2,,,,21/02/2017 00:00
+117,"Unknown Pad, Kourou",0,5.239,-52.769,"https://www.google.com/maps/?q=5.239,-52.769",0,3,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,https://en.wikipedia.org/wiki/Guiana_Space_Centre,http://www.esa.int/Our_Activities/Launchers/Europe_s_Spaceport/Europe_s_Spaceport2,21/02/2017 00:00
+118,"Unknown Pad, Hammaguir",0,30.871,-3.008,,0,4,,,,21/02/2017 00:00
+119,"Unknown Pad, Sriharikota",0,13.733,80.235,,0,5,,,,21/02/2017 00:00
+120,"Unknown Pad, Iran",0,,,,0,6,null,,,21/02/2017 00:00
+121,"Unknown Pad, Kenya",0,2.938333,40.2125,"https://www.google.com/maps/?q=2.938333, 40.212500",0,7,null,,,21/02/2017 00:00
+122,"Unknown Pad, Kagoshima",0,31.251,131.082,,1,8,,,,21/02/2017 00:00
+123,"Unknown Pad, Tanegashima, Japan",0,30.401,130.977,,0,9,,,,21/02/2017 00:00
+124,"Unknown Pad, Baikonur Cosmodrome, Kazakhstan",0,45.92,63.342,,0,10,,,,21/02/2017 00:00
+125,"Unknown Pad, Plesetsk Cosmodrome, Russia",0,62.925556,40.577778,"https://www.google.com/maps?q=62.925556,40.577778",0,11,,https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome,,21/02/2017 00:00
+126,"Unknown Pad, Kapustin Yar, Russia",0,48.5405,46.3,,0,12,,,,21/02/2017 00:00
+127,"Unknown Pad, Svobodney Cosmodrome, Russia",0,51.8052,128.2321,,0,13,,,,21/02/2017 00:00
+128,"Unknown Pad, Dombarovskiy, Russia",0,51.036,59.958,,0,14,,,,21/02/2017 00:00
+129,"Unknown Pad, Sea Lauch",0,0,0,,0,15,,,,21/02/2017 00:00
+130,"Unknown Pad, Cape Canaveral, FL",0,28.458,-80.528,,0,16,,,,21/02/2017 00:00
+131,"Launch Complex 39C, Kennedy Space Center, FL",0,28.608,-80.604,"maps.google.com/maps?q=28.608,-80.604",0,17,,https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39C,,21/02/2017 00:00
+133,"Unknown Pad, Wallops Island, Virginia",0,37.834,-75.488,,0,19,,,,21/02/2017 00:00
+134,"Unknown Pad, Woomera",0,-30.972,136.475,,0,20,,,,21/02/2017 00:00
+135,"Unknown Pad, Unknown Location",0,0,0,,0,37,,,,21/02/2017 00:00
+140,Kaitorete Spit Launch Complex,0,-43.828334,172.53629,"https://www.google.com/maps/?q=-43.828334,172.536290",0,24,,,,21/02/2017 00:00
+141,Plesetsk 133/3,0,62.887,40.85,https://www.google.pl/maps/place/62°53'13.2"N+40°51'00.0"E/,0,11,null,https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome,,21/02/2017 00:00
+142,"Launch Complex 2 (LC-2), Xichang Satellite Launch Center",0,28.246017,102.026556,"https://www.google.com/maps/?q=28.246017,102.026556",0,25,null,https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center,,21/02/2017 00:00
+143,"Launch Complex 3 ( LC-3 ) ( LA-1 ), Xichang Satellite Launch Center",0,28.246017,102.026556,"https://www.google.com/maps/?q=28.246017,102.026556",0,25,null,https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center,,21/02/2017 00:00
+144,Satish Dhawan Space Centre First Launch Pad,0,13.733,80.235,"https://www.google.com/maps?q=13.733,80.235",0,5,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad,21/02/2017 00:00
+145,Satish Dhawan Space Centre Second Launch Pad,0,13.7199,80.2304,"https://www.google.com/maps?q=13.7199,80.2304",0,5,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad,https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad,21/02/2017 00:00
+146,"Soyuz Launch Complex, Kourou/Sinnamary",0,5.3019,-52.8346,"https://www.google.com/maps/?q=5.3019,-52.8346",0,3,http://www.arianespace.com/spaceport-soyuz/overview.asp,https://en.wikipedia.org/wiki/Ensemble_de_Lancement_Soyouz,http://www.arianespace.com/spaceport-soyuz/overview.asp,21/02/2017 00:00
+147,"Unknown, Xichang Satellite Launch Center",0,28.246017,102.026556,"https://www.google.com/maps?ll=28.246017,102.026556&q=28.246017,102.026556&hl=en&t=m&z=15",0,25,Unknown,https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center,Unknown,21/02/2017 00:00
+148,Unknown,0,31.0233,34.9728,https://www.google.ee/maps/place/31%C2%B001'23.9%22N+34%C2%B058'22.1%22E,0,26,Unknown,https://en.wikipedia.org/wiki/Negev,Unknown,21/02/2017 00:00
+149,"Unknown, Palmachim Airbase, Israel",0,31.897778,34.690556,"https://www.google.com/maps?q=31.897778,34.690556",0,27,null,https://en.wikipedia.org/wiki/Palmachim_Airbase,,21/02/2017 00:00
+150,"LP-41, Barking Sands",0,22.022778,-159.785,"maps.google.com/maps?q=22.022778,-159.785000",0,28,https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility,https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility,https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility,21/02/2017 00:00
+151,Plesetsk Site 35/1,0,0,0,,0,11,,,,21/02/2017 00:00
+153,Naro,0,34.431867,127.535069,"https://maps.google.com/maps?q=34.431867,127.535069",0,31,null,https://en.wikipedia.org/wiki/Naro_Space_Center,,21/02/2017 00:00
+154,Kodiak LP-1,0,57.435833,-152.337778,"https://www.google.ee/maps/search/57.435833,152.337778",0,32,null,https://en.wikipedia.org/wiki/Kodiak_Launch_Complex,,21/02/2017 00:00
+155,"Wenchang, China",0,19.614354,110.951057,https://www.google.com/maps/place/19°36'52.2"N+110°57'04.1"E/,0,33,null,https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center,,21/02/2017 00:00
+156,"LD1, Vostochny Cosmodrome, Siberia, Russian Federation",0,51.815581,128.296552,https://www.google.pl/maps/place/51°48'56.1"N+128°17'47.6"E,0,34,,https://en.wikipedia.org/wiki/Vostochny_Cosmodrome,,21/02/2017 00:00
+157,"PU1, Vostochny Cosmodrome, Siberia, Russian Federation",0,51,128,,0,34,,https://en.wikipedia.org/wiki/Vostochny_Cosmodrome#Launch_pads,,21/02/2017 00:00
+161,"Unknown pad, Sohae Satellite Launching Station",0,39.66,124.705,"https://www.google.com/maps?q=39.66,124.705",0,38,null,https://en.wikipedia.org/wiki/Sohae_Satellite_Launching_Station,,21/02/2017 00:00
+162,Kwajalein Atoll,0,8.716667,167.733333,https://www.google.com/maps/place/8%C2%B043'00.0%22N+167%C2%B044'00.0%22E,0,39,null,https://en.wikipedia.org/wiki/Kwajalein_Atoll,,21/02/2017 00:00
+163,Vandenberg Air Force Base,0,34.732778,-120.568056,"https://www.google.com/maps?ll=34.732778,-120.568056&q=34.732778,-120.568056&hl=en&t=m&z=14",0,39,,https://en.wikipedia.org/wiki/Vandenberg_Air_Force_Base,,21/02/2017 00:00
+164,Cape Canaveral,0,28.455556,-80.527778,"https://www.google.com/maps?ll=28.455556,-80.527778&q=28.455556,-80.527778&hl=en&t=m&z=15",0,39,,https://en.wikipedia.org/wiki/Cape_Canaveral,,21/02/2017 00:00
+165,Wallops Flight Facility,0,37.938611,-75.457222,https://www.google.com/maps/place/37°56'19.0"N+75°27'26.0"W/,0,39,null,https://en.wikipedia.org/wiki/Wallops_Flight_Facility,,21/02/2017 00:00
+168,"Gran Canaria, Spain",0,27.966667,-15.6,https://www.google.com/maps/place/Gran+Canaria/,1,39,null,https://en.wikipedia.org/wiki/Gran_Canaria,,21/02/2017 00:00
+169,"Unknown, Uchinoura Space Center, Japan",0,31.251944,131.081944,https://www.google.com/maps/place/Uchinoura+Space+Center/,0,41,null,https://en.wikipedia.org/wiki/Uchinoura_Space_Center,,21/02/2017 00:00
+170,"Cosmodrome Site 1S, Vostochny Cosmodrome, Siberia, Russian Federation",0,51.884395,128.333932,https://www.google.ee/maps/place/51°53'03.8"N+128°20'02.2"E/,0,34,,https://en.wikipedia.org/wiki/Vostochny_Cosmodrome,,21/02/2017 00:00
+171,"Mu Center, Uchinoura Space Center, Japan",0,31.251,131.0813,"https://www.google.com/maps?q=31.251,131.0813",0,41,null,https://en.wikipedia.org/wiki/Uchinoura_Space_Center,,21/02/2017 00:00
+172,"KS Center, Uchinoura Space Center, Japan",0,31.251871,131.079089,https://www.google.com/maps/place/31%C2%B015'06.7%22N+131%C2%B004'44.7%22E,0,41,null,https://en.wikipedia.org/wiki/Uchinoura_Space_Center,,21/02/2017 00:00
+173,Omelek Island,0,9.047861,167.743,"https://www.google.com/maps?q=9.047861,167.743",0,42,null,https://en.wikipedia.org/wiki/Omelek_Island,,21/02/2017 00:00
+174,"Unknown Pad, Unknown Location, China",0,35.844694,103.452083,"https://www.google.com/maps?ll=35.844694,103.452083&q=35.844694,103.452083&hl=en&t=m&z=15",0,37,,,,21/02/2017 00:00
+182,Imam Khomeini Spaceport,0,35.238,53.950778,"https://www.google.com/maps?q=35.238000,53.950778",0,6,,https://en.wikipedia.org/wiki/Imam_Khomeini_Spaceport,,10/04/2018 18:19
+183,"Rocket Lab Launch Complex 2, Wallops Island, Virginia",0,37.834,-75.488,,0,19,null,,,17/10/2018 15:19
