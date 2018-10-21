@@ -62,7 +62,7 @@
                 url: "./pad.csv",
                 popupTemplate: template
             });
-            /*/ Pass a simple renderer to the layer
+            // Pass a simple renderer to the layer
             csvLayer.renderer = {
                 type: "simple",  // autocasts as new SimpleRenderer()
                 symbol: {
@@ -78,7 +78,7 @@
                     }]
                 }
             };
-            map.add(csvLayer);  // adds the layer to the map */
+            map.add(csvLayer);  // adds the layer to the map
 
             // Creates actions in the popup
             function viewLaunchActions(event) {
@@ -89,18 +89,23 @@
                 item.open = true;
                 item.actionsSections = [[
                         {
-                        title: "latest",
-                        className: "esri-icon-time-clock",
+                        title: "Atlas V 551, AEHF-4",
+                        className: "esri-icon-description",
                         id: "launch1"
                         }, 
                         {
-                        title: "Layer information",
-                        className: "esri-icon-question",
+                        title: "Falcon 9 Block 5, Telstar 18",
+                        className: "esri-icon-time-clock",
                         id: "launch2"
                         },
                         {
-                        title: "Increase opacity",
-                        className: "esri-icon-description",
+                        title: "Delta IV Heavy, Parker Solar Probe",
+                        className: "esri-icon-time-clock",
+                        id: "launch3"
+                        },
+                        {
+                        title: "Falcon 9 Block 5, Merah Putih",
+                        className: "esri-icon-time-clock",
                         id: "launch3"
                         }
                 ]];
@@ -123,7 +128,7 @@
                 // redirect to launch details
                 popupView.on("trigger-action", function(event) {
                     var id = event.action.id;
-                    if(id === "launch1"){
+                    if(id === "launch2"){
                         console.log("click event: ", id);
                         //redirect
                         window.location.href = "./home.html";
@@ -138,6 +143,5 @@
 </head>
 <body>
     <div id="viewDiv"></div>
-</div>
 </body>
 </html>
