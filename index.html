@@ -48,6 +48,11 @@
                 position: "top-right"
             });
 
+            var camera = {
+                speedFactor: 1, // default animation speed
+                easing: "out-quint" // easing function to slow down when reaching the target
+            }; //view.goTo(target, camera); //command for camera flight
+
             var template = {
                 title: "{name}",
                 content: viewLaunch
@@ -57,7 +62,7 @@
                 url: "./pad.csv",
                 popupTemplate: template
             });
-            // Pass a simple renderer to the layer
+            /*/ Pass a simple renderer to the layer
             csvLayer.renderer = {
                 type: "simple",  // autocasts as new SimpleRenderer()
                 symbol: {
@@ -73,28 +78,7 @@
                     }]
                 }
             };
-
-            var spacexLayer = new CSVLayer({
-                url: "./spacex.csv",
-                popupTemplate: template
-            });
-            // Pass a simple renderer to the layer
-            spacexLayer.renderer = {
-                type: "simple",  // autocasts as new SimpleRenderer()
-                symbol: {
-                    type: "point-3d",  // autocasts as new PointSymbol3D()
-                    symbolLayers: [{
-                        type: "marker",  // autocasts as new IconSymbol3DLayer()
-                        material: { color: [255,0,0,0.6] },
-                        outline: { 
-                            width: 0.5,
-                            color: "white"
-                        },
-                        size: "15px"
-                    }]
-                }
-            };
-            map.add(csvLayer);  // adds the layer to the map
+            map.add(csvLayer);  // adds the layer to the map */
 
             // Creates actions in the popup
             function viewLaunchActions(event) {
