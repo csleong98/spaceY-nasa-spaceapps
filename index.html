@@ -44,8 +44,17 @@
                 view: view
             });
             
+            var toggle = new LayerList({
+                    view: view,
+                    statusIndicatorsVisible: false,
+                });
+
             view.ui.add(searchWidget, {
                 position: "top-right"
+            });
+
+            view.ui.add(toggle, {
+                position: "bottom-right"
             });
 
             var camera = {
@@ -60,7 +69,8 @@
 
             var csvLayer = new CSVLayer({
                 url: "./pad.csv",
-                popupTemplate: template
+                popupTemplate: template,
+                title: "Launch site"
             });
             // Pass a simple renderer to the layer
             csvLayer.renderer = {
@@ -78,7 +88,32 @@
                     }]
                 }
             };
+
+            var spaceLayer = new CSVLayer({
+                url: "./spacex.csv",
+                popupTemplate: template,
+                visible: false,
+                title: "SpaceX"
+            });
+            // Pass a simple renderer to the layer
+            spaceLayer.renderer = {
+                type: "simple",  // autocasts as new SimpleRenderer()
+                symbol: {
+                    type: "point-3d",  // autocasts as new PointSymbol3D()
+                    symbolLayers: [{
+                        type: "icon",  // autocasts as new IconSymbol3DLayer()
+                        outline: {
+                            width: 0.5,
+                            color: "white"
+                        },
+                        size: "50px",
+                        resource: {href: "./img/spacex-logo.png"}
+                    }]
+                }
+            };
+
             map.add(csvLayer);  // adds the layer to the map
+            map.add(spaceLayer);  // adds the layer to the map
 
             // Creates actions in the popup
             function viewLaunchActions(event) {
