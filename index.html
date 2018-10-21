@@ -44,8 +44,17 @@
                 view: view
             });
             
+            var toggle = new LayerList({
+                    view: view,
+                    statusIndicatorsVisible: false,
+                });
+
             view.ui.add(searchWidget, {
                 position: "top-right"
+            });
+
+            view.ui.add(toggle, {
+                position: "bottom-right"
             });
 
             var camera = {
@@ -60,7 +69,8 @@
 
             var csvLayer = new CSVLayer({
                 url: "./pad.csv",
-                popupTemplate: template
+                popupTemplate: template,
+                title: "Launch site"
             });
             // Pass a simple renderer to the layer
             csvLayer.renderer = {
@@ -78,35 +88,60 @@
                     }]
                 }
             };
+
+            var spaceLayer = new CSVLayer({
+                url: "./spacex.csv",
+                popupTemplate: template,
+                visible: false,
+                title: "SpaceX"
+            });
+            // Pass a simple renderer to the layer
+            spaceLayer.renderer = {
+                type: "simple",  // autocasts as new SimpleRenderer()
+                symbol: {
+                    type: "point-3d",  // autocasts as new PointSymbol3D()
+                    symbolLayers: [{
+                        type: "icon",  // autocasts as new IconSymbol3DLayer()
+                        outline: {
+                            width: 0.5,
+                            color: "white"
+                        },
+                        size: "50px",
+                        resource: {href: "./img/spacex-logo.png"}
+                    }]
+                }
+            };
+
             map.add(csvLayer);  // adds the layer to the map
+            map.add(spaceLayer);  // adds the layer to the map
 
             // Creates actions in the popup
             function viewLaunchActions(event) {
                 var item = event.item;
-                item.title = "Upcoming launches";
+                item.title = "Past & Upcoming launches";
                 
                 // open the list item in the LayerList
                 item.open = true;
                 item.actionsSections = [[
                         {
-                        title: "Atlas V 551, AEHF-4",
+                        title: "Falcon 9 Block 5, Telstar 18 (September 10, 2018)",
                         className: "esri-icon-description",
-                        id: "launch1"
-                        }, 
-                        {
-                        title: "Falcon 9 Block 5, Telstar 18",
-                        className: "esri-icon-time-clock",
-                        id: "launch2"
+                        id: "launch"
                         },
                         {
-                        title: "Delta IV Heavy, Parker Solar Probe",
-                        className: "esri-icon-time-clock",
-                        id: "launch3"
+                        title: "Atlas V 551, AEHF-4 (October 17, 2018)",
+                        className: "esri-icon-description",
+                        id: "launch"
                         },
                         {
-                        title: "Falcon 9 Block 5, Merah Putih",
+                        title: "Pegasus XL, Ionospheric (October 26, 2018)",
                         className: "esri-icon-time-clock",
-                        id: "launch3"
+                        id: "launch"
+                        },
+                        {
+                        title: "Falcon 9 Block 5, Es'hail 2 (November 14, 2018)",
+                        className: "esri-icon-time-clock",
+                        id: "launch"
                         }
                 ]];
             };
@@ -128,7 +163,7 @@
                 // redirect to launch details
                 popupView.on("trigger-action", function(event) {
                     var id = event.action.id;
-                    if(id === "launch2"){
+                    if(id === "launch"){
                         console.log("click event: ", id);
                         //redirect
                         window.location.href = "./home.html";
